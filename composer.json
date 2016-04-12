@@ -1,10 +1,12 @@
 {
+  "version": "1.0.0",
   "name": "wuwenhan/systeminfo",
   "description": "系统信息",
   "keywords": [
     "php",
     "phpinfo"
   ],
+
   "license": "MIT",
   "authors": [
     {
