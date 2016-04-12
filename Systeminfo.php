@@ -9,7 +9,7 @@ class Systeminfo
         return php_uname();
     }
 
-    public function getShortsystem()
+    public static function getShortsystem()
     {
         return php_uname('s');
     }
